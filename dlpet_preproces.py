@@ -2,6 +2,7 @@ import numpy as np
 import pydicom
 import os
 import glob
+import cv2
 from PIL import Image
 from pydicom.filereader import read_file
 import matplotlib.pyplot as plt
